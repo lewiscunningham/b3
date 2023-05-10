@@ -4,7 +4,6 @@ when the HTTP method is a GET request, and Posting… when the HTTP method is a 
 You can decide the structure of the response payload so long as Getting... or Posting... 
 is in the body of the payload.
 """
-import json
 
 def lambda_handler(event, context):
 

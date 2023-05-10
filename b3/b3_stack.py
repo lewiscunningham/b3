@@ -8,7 +8,6 @@ from aws_cdk import (
     Stack,
 )
 from constructs import Construct
-import os.path as path
 
 class B3Stack(Stack):
 
