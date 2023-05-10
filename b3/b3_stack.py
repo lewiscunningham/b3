@@ -4,10 +4,8 @@
 from aws_cdk import (
     Duration,
     aws_lambda as lambda_,
-    #aws_lambda_python as lambda_,
     aws_apigateway as apig,
     Stack,
-    # aws_sqs as sqs,
 )
 from constructs import Construct
 import os.path as path
